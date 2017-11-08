@@ -6,7 +6,7 @@ import imp
 import os
 
 from subprocess import Popen, PIPE, call as subproc_call
-from xtf_error import XTFError
+from xtf_utils import XTFError
 
 ########################################################################
 # Classes
