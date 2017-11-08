@@ -1,5 +1,4 @@
 <?xml version="1.0" ?>
 <class-directory>
-	<class kind="host" name="xl_host.XLHost"/>
 	<class kind="test" name="xl_simple.XTFSimpleTest"/>
 </class-directory>
