@@ -1,4 +1,4 @@
 <?xml version="1.0" ?>
 <class-directory>
-	<class kind="test" name="xl_simple.XTFSimpleTest"/>
+	<class kind="test" name="xtf_simple.XTFSimpleTest"/>
 </class-directory>
